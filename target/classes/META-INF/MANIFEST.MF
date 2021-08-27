@@ -1,0 +1,12 @@
+Manifest-Version: 1.0
+Bundle-Description: mobiles war
+Bundle-SymbolicName: mobiles
+Bundle-Name: mobiles
+Bundle-Version: 1.0.0.SNAPSHOT
+Built-By: Teja
+Bundle-ManifestVersion: 2
+Bnd-LastModified: 1630067504697
+Created-By: Apache Maven Bundle Plugin
+Tool: Bnd-1.15.0
+Build-Jdk: 1.8.0_281
+
